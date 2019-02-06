@@ -9,4 +9,4 @@ Like all sound, the ground, mountains and other visual assets and postprocessign
 
 I cannot speak for the core design or art in the game but I'm proud of how the scene and code worked out.
 
-In this repository I've also added the scripts I made and some progress screenshots. Sadly the project itself is in an older Unity version and doesn't work properly anymore so I won't add it.
+In this repository I've also added the scripts I made and some progress screenshots. Sadly the project itself is in an older Unity version and doesn't work properly anymore.
