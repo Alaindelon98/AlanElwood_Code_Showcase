@@ -1,4 +1,7 @@
-# Oniros_TFG
+# Code showcase
+
+Oniros TFG
+----------------
 
 You can find the game here: http://www.mediafire.com/file/a46ay46ns48636j/Demo_Kale.rar/file
 
@@ -10,3 +13,12 @@ Like all sound, the ground, mountains and other visual assets and postprocessign
 I cannot speak for the core design or art in the game but I'm proud of how the scene and code worked out.
 
 In this repository I've also added the scripts I made and some progress screenshots. Sadly the project itself is in an older Unity version and doesn't work properly anymore.
+
+------------------
+
+
+
+Scripts I've done on other projects
+-----------------------------------
+
+I also added several scripts written by me from projects I've worked on. The projects are in other repositories in my GitHub profile, if you're interested.
